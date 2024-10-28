@@ -76,3 +76,6 @@ At the heart of my vision for AI-based urban planning is the commitment to susta
 
 ### Elderly Care and Accessibility
 - **Inclusive Design:** Creating spaces that prioritize accessibility for elderly residents is essential. Everyone deserves to feel safe and supported in their community.
+
+- <img src="">
+
