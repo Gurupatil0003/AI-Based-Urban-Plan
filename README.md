@@ -1,5 +1,5 @@
 <!--
-# Title: AI-Based Urban Planning: Paving the Path to Smarter Cities
+# Title: AI-Based Urban Planning: Paving the Path to Smarter Cities. 
 
 Introduction: Urbanization is transforming our cities at an unprecedented pace, presenting unique challenges that demand innovative solutions. As I observe the complexities of urban life, I am driven by the question: how can we effectively design our cities to enhance the quality of life for all residents? This inquiry has led me to explore the role of artificial intelligence (AI) in urban planning.
 
