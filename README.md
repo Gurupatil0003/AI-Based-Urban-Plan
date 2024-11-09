@@ -81,6 +81,43 @@ Build a **Streamlit** application to showcase the model's predictions and allow 
 
 ---
 
+## 🧑‍💻 Project Dependencies
+
+To run this project, you will need the following Python libraries. You can install them via `pip`.
+
+### Dependencies:
+
+- **numpy**: 1.23.5
+- **pandas**: 1.5.3
+- **matplotlib**: 3.7.1
+- **seaborn**: 0.12.2
+- **scikit-learn**: 1.3.0
+- **tensorflow**: 2.14.0
+- **keras**: 2.14.0
+- **geopandas**: 0.12.3
+- **osmnx**: 1.2.2
+- **streamlit**: 1.28.0
+- **plotly**: 5.11.0
+
+### Installation Instructions:
+
+You can install all the required dependencies at once by running the following command:
+
+```bash
+pip install -r requirements.txt
+```
+```python
+pip install numpy pandas matplotlib seaborn scikit-learn tensorflow keras geopandas osmnx streamlit plotly
+```
+
+- Note: It’s recommended to use a virtual environment for managing project dependencies. You can create one using the following commands:
+```python
+python -m venv venv
+source venv/bin/activate  # For macOS/Linux
+venv\Scripts\activate  # For Windows
+```
+
+
 ## 💻 Running the Streamlit App
 
 Once you’ve built your model and visualizations, you can create an interactive dashboard with Streamlit. To run the app locally, execute:
