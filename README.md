@@ -1,6 +1,7 @@
 <!--
 # Title: AI-Based Urban Planning: Paving the Path to Smarter Cities. 
 
+
 Introduction: Urbanization is transforming our cities at an unprecedented pace, presenting unique challenges that demand innovative solutions. As I observe the complexities of urban life, I am driven by the question: how can we effectively design our cities to enhance the quality of life for all residents? This inquiry has led me to explore the role of artificial intelligence (AI) in urban planning.
 
 AI offers powerful tools for analyzing data, predicting trends, and facilitating community engagement. Imagine a future where traffic congestion is minimized, public transportation is optimized, and green spaces are expanded to meet the needs of diverse populations. The integration of AI into urban planning can make this vision a reality.
@@ -33,6 +34,8 @@ By focusing on these goals, I aim to inspire urban planners, policymakers, and r
 
 
 # AI-Based Urban Planning: My Vision for Future Cities
+- <img src="https://github.com/Gurupatil0003/AI-Based-Urban-Plan/blob/master/OutPut%20Images/Screenshot%202024-11-09%20093953.png
+">
 
 ## Introduction
 As I look at our ever-evolving cities, I can’t help but feel both excitement and concern. Cities are vibrant places filled with potential, yet they face immense challenges like overcrowding, environmental strain, and infrastructure limitations. This is where AI-based urban planning comes in—a transformative approach that uses cutting-edge technology to reimagine how we live and interact within urban spaces. My goal is to leverage AI to create smarter, more efficient cities that enhance the quality of life for everyone.
