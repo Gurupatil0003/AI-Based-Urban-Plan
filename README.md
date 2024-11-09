@@ -34,8 +34,7 @@ By focusing on these goals, I aim to inspire urban planners, policymakers, and r
 
 
 # AI-Based Urban Planning: My Vision for Future Cities
-- <img src="https://github.com/Gurupatil0003/AI-Based-Urban-Plan/blob/master/OutPut%20Images/Screenshot%202024-11-09%20093953.png
-">
+- <img src="https://github.com/Gurupatil0003/AI-Based-Urban-Plan/blob/master/OutPut%20Images/Screenshot%202024-11-09%20093953.png">
 
 ## Introduction
 As I look at our ever-evolving cities, I can’t help but feel both excitement and concern. Cities are vibrant places filled with potential, yet they face immense challenges like overcrowding, environmental strain, and infrastructure limitations. This is where AI-based urban planning comes in—a transformative approach that uses cutting-edge technology to reimagine how we live and interact within urban spaces. My goal is to leverage AI to create smarter, more efficient cities that enhance the quality of life for everyone.
