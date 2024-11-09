@@ -86,7 +86,7 @@ Build a **Streamlit** application to showcase the model's predictions and allow 
 To run this project, you will need the following Python libraries. You can install them via `pip`.
 
 ### Dependencies:
-
+```python
 - **numpy**: 1.23.5
 - **pandas**: 1.5.3
 - **matplotlib**: 3.7.1
@@ -98,7 +98,7 @@ To run this project, you will need the following Python libraries. You can insta
 - **osmnx**: 1.2.2
 - **streamlit**: 1.28.0
 - **plotly**: 5.11.0
-
+```
 ### Installation Instructions:
 
 You can install all the required dependencies at once by running the following command:
