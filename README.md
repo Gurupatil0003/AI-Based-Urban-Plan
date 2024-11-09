@@ -42,6 +42,42 @@ As I look at our ever-evolving cities, I can’t help but feel both excitement a
 ## Objectives
 At the heart of my vision for AI-based urban planning is the commitment to sustainability and community well-being. I believe we can harness data-driven strategies to harmonize the needs of people, the environment, and the economy, creating urban ecosystems that truly thrive.
 
+## Project Workflow
+
+### 1. Data Collection & Integration 📡
+Gather urban data from various sources like IoT sensors, APIs, and smart systems. This data can include traffic patterns, air quality, population density, and land usage.
+
+### 2. Exploratory Data Analysis (EDA) 🔎
+Perform data exploration using libraries like Pandas and Seaborn. Visualize the relationships between urban variables to identify trends and patterns.
+
+### 3. Model Building 🏗️
+Use **Random Forest** (a machine learning algorithm) to predict urban trends like traffic flow, pollution levels, and energy consumption. Fine-tune the model for accuracy.
+
+### 4. Geospatial Analysis 🌍
+Utilize **Geopandas** and **OSMnX** to map city layouts and analyze how geographic factors influence urban planning decisions.
+
+### 5. Interactive Web Application 🌐
+Build a **Streamlit** application to showcase the model's predictions and allow users to interact with the urban data visualizations in real-time.
+
+---
+
+## 🧑‍🏫 Learning Outcomes
+
+- **GIS Skills**: Understand how to perform geospatial analysis for urban planning. 🗺️
+- **Data Science**: Learn the basics of EDA, model building, and data visualization. 📊
+- **AI & Machine Learning**: Apply machine learning techniques like Random Forest for prediction. 🤖
+- **Urban Planning**: Integrate AI with urban development to optimize resources and enhance city living. 🌆
+
+---
+
+## 💻 Running the Streamlit App
+
+Once you’ve built your model and visualizations, you can create an interactive dashboard with Streamlit. To run the app locally, execute:
+
+```bash
+streamlit run app.py
+```
+
 ## Goals
 ### Traffic Optimization
 - **Streamline Movement:** Imagine a city where AI analyzes traffic patterns in real time, reducing congestion and making our daily commutes smoother. That’s the future I envision.
