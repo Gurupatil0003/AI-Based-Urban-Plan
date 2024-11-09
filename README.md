@@ -42,6 +42,17 @@ As I look at our ever-evolving cities, I can’t help but feel both excitement a
 ## Objectives 🧑‍💻
 At the heart of my vision for AI-based urban planning is the commitment to sustainability and community well-being. I believe we can harness data-driven strategies to harmonize the needs of people, the environment, and the economy, creating urban ecosystems that truly thrive.
 
+## 🛠 Tools & Technologies Used
+
+- **Programming Language:** Python 3.x 🐍
+- **Machine Learning Libraries:** TensorFlow 🧠, Keras 🤖, Scikit-learn 🏫
+- **Data Visualization:** Matplotlib 📊, Seaborn 📉, Plotly 🌐
+- **Geospatial Data:** Geopandas 🌍, OSMnx 🗺️
+- **Web Development:** Streamlit 🌐
+- **Data Collection:** IoT sensors, APIs, and Real-Time Data
+- **Platform:** Google Colab (for GPU use) ⚡, VS Code / Nimbus (Bytexl) 🔥
+
+
 ## Project Workflow
 
 ### 1. Data Collection & Integration 📡
